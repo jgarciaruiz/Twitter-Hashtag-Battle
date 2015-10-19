@@ -6,21 +6,20 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>La Venganza De Malinche</title>
+	<title>-</title>
 	<link rel="stylesheet" href="css/style.css?v=<?php echo rand(234,4234)?>">
 	<script src="js/modernizr.js"></script>
 </head>
 
 <body>
 	<div id="bodywr">
-		<h1 class="logo">La venganza de Malinche</h1>
-		<h2 class="subtitle">Entra en el sorteo de una cena para dos</h2>
-		<span id="nachoterapia-logo">Nachoterapia</span>
+		<h1 class="logo"></h1>
+		<h2 class="subtitle">Hashtag Battle</h2>
+		<span id="nachoterapia-logo">AppIcon</span>
 
 		<div class="instructions">
 			<ol>
 				<li>1.- Vota a tu preferido en twitter usando los hashtags del que más te haya gustado</li>
-				<li>2.- Comparte una foto con los dos hashtags y entra en el sorteo de una cena para dos</li>
 			</ol>
 		</div>
 
