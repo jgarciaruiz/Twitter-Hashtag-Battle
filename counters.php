@@ -247,7 +247,6 @@
 	}
 
     $ajaxResponse = array(
-        'consoleLog' => 'json loaded',
         'totalMayas' => $row_cnt_mayas,
         'totalZacatecas' => $row_cnt_zacatecas,
         'totalCabrones' => $row_cnt_cabrones
