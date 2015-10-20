@@ -13,16 +13,17 @@
 	$table_name = "tw_db";
 
 	//debugging demo xD
+	/*
 	$primaryHashtag = "#starwars";
 	$countDBmayas = "darthvader";
 	$countDBzacatecas = "TheForceAwakens";
 	$countDBcabrones = "starwars";
+	*/
 
-/*
-	$primaryHashtag = "#losmejoresnachosdemadrid";//#hashtag principal, lo usaré para buscar luego en la BBDD el numero de apareiciones de cada hashtag secundario
-	$countDBmayas = "mayas";#hashtag secundario
-	$countDBzacatecas = "zacatecas";//#hashtag secundario
-	$countDBcabrones = "cabrones";//#hashtag secundario
-*/
+	$primaryHashtag = "#losmejoresnachosdemadrid";//#main #hashtag 
+	$countDBmayas = "mayas";#seconday-hashtag
+	$countDBzacatecas = "zacatecas";//#seconday-hashtag
+	$countDBcabrones = "cabrones";//#seconday-hashtag
+
 
 ?>
