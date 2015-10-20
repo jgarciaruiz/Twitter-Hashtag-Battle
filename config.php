@@ -3,16 +3,16 @@
 	include('db.php');
 	require_once 'lib/twitteroauth.php';
 
-	define('CONSUMER_KEY', 'l1E7iOI99QLdWqqVZ7rlDhCnV');
-	define('CONSUMER_SECRET', 'Fehpf67nctTl3wLLBTRmwNXbt7nAkBx9JEFDKIbsopzVD2Wl8n');
-	define('ACCESS_TOKEN', '1547887860-JJK4RUOWPd00lgbNBGCfW7f5QPVhj8AZE24T2QN');
-	define('ACCESS_TOKEN_SECRET', 'hrfLIG6Ghx0UIOtIRuaAMt0Bb77L8nWPHsyfEUPWclWZV');
+	define('CONSUMER_KEY', '');
+	define('CONSUMER_SECRET', '');
+	define('ACCESS_TOKEN', '');
+	define('ACCESS_TOKEN_SECRET', '');
 	 
 	$toa = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 
 	$table_name = "tw_db";
 
-	//debugging
+	//debugging demo xD
 	$primaryHashtag = "#starwars";
 	$countDBmayas = "darthvader";
 	$countDBzacatecas = "TheForceAwakens";
